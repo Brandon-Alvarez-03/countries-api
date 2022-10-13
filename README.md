@@ -16,3 +16,16 @@
 ---
 Using download.js file
 - <https://restaurantscountries.com/v3.1/all>
+
+
+### Sample DL Format
+---
+```
+import fetch from 'node-fetch'
+
+fetch("https://restcountries.com/v3.1/all")
+  .then((res) => res.json())
+  .then((data) => {
+    console.log(data[0])
+  })
+```
