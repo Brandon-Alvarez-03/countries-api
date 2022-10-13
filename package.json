@@ -1,0 +1,22 @@
+{
+  "name": "countries_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandon-Alvarez-03/countries-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandon-Alvarez-03/countries-api/issues"
+  },
+  "homepage": "https://github.com/Brandon-Alvarez-03/countries-api#readme",
+  "dependencies": {
+    "mongoose": "^6.6.5"
+  }
+}
