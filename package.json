@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Brandon-Alvarez-03/countries-api#readme",
   "dependencies": {
-    "mongoose": "^6.6.5"
-  }
+    "mongoose": "^6.6.5",
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
 }
